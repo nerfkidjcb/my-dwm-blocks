@@ -23,7 +23,7 @@ static const Block blocks[] = {
      1, 0}, // Memory Usage
 
     {"    󰥔  ", 
-     "bash -c 'date +\"%H:%M:%S   %-d %B %Y\"'", 
+     "bash -c 'date +\"%H:%M   %-d %B %Y\"'", 
      1, 0},
 };
 
